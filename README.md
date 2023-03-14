@@ -10,9 +10,15 @@ Estoy ubicado en _Lima_ , _Peru. :earth_americas:_
 
 
 ![HTML](https://img.shields.io/badge/HTML5-HTML-orange)
+
 ![CSS](https://img.shields.io/badge/CSS-CSS3-blue)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+
 
 
 
@@ -29,3 +35,9 @@ Estoy ubicado en _Lima_ , _Peru. :earth_americas:_
 | alias | listar los alias                       |
 | pwd   | Visualizar en que carpeta me encuentro |
 | code .| Abrir VS Code desde la terminal        |
+
+## :fire: Sigueme en mis redes sociales
+
+![Twitter](https://img.shields.io/twitter/follow/EdwardEmpatico?color=%230000ff&label=Twitter&logo=twitter)
+
+
