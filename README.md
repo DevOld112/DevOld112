@@ -9,9 +9,9 @@ Estoy ubicado en _Lima_ , _Peru. :earth_americas:_
 ## :crossed_swords: Tecnologias & Herramientas que me encuentro en proceso de aprendizaje
 
 
-![HTML](https://img.shields.io/badge/HTML5-HTML-orange)
+![HTML5](https://img.shields.io/badge/-HTML5-f06529?&logo=HTML5&logoColor=white)
 
-![CSS](https://img.shields.io/badge/CSS-CSS3-blue)
+![CSS3](https://img.shields.io/badge/-CSS3-2965f1?&logo=CSS3&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
