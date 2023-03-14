@@ -6,7 +6,7 @@ _*30 Años*. Aprendiz de programador autodidacta apasionado :books: por la tecno
 
 Estoy ubicado en _Lima_ , _Peru. :earth_americas:_
 
-## :crossed_swords: Tecnologias que me encuentro en proceso de aprendizaje
+## :crossed_swords: Tecnologias & Herramientas que me encuentro en proceso de aprendizaje
 
 
 ![HTML](https://img.shields.io/badge/HTML5-HTML-orange)
