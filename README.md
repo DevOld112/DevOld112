@@ -21,7 +21,7 @@ Estoy ubicado en _Lima_ , _Peru. :earth_americas:_
 
 
 
-<h3> My GitHub Stats </h3>
+<h3> :bar_chart: My GitHub Stats </h3>
 
 <div align ="center">
   <a href="https://github.com/DevOld112">
