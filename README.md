@@ -26,7 +26,7 @@ Estoy ubicado en _Lima_ , _Peru. :earth_americas:_
 <div align ="center">
   <a href="https://github.com/DevOld112">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=DevOld112&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIOAQUI&theme=dark&hide_border=false&&layout=compact"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOld112&theme=dark&hide_border=false&&layout=compact"/>
   </a>
  </div>
 
