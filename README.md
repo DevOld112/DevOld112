@@ -19,6 +19,8 @@ Estoy ubicado en _Lima_ , _Peru. :earth_americas:_
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+
 
 
 ## :bar_chart: My GitHub Stats
