@@ -16,7 +16,7 @@ _I am located in Lima, Peru. 🌎._
 **Languages and tools:**  
 
 <div style="display: flex;">
-  <div style="margin-bottom: 10px;">
+  <div style="margin-bottom: 10;">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
   &nbsp;
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
@@ -29,7 +29,7 @@ _I am located in Lima, Peru. 🌎._
 
 
 <div style="display: flex;">
-  <div style="margin-bottom: 10px;">
+  <div style="margin-bottom: 10;">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   &nbsp;
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
@@ -42,12 +42,14 @@ _I am located in Lima, Peru. 🌎._
 
 
 <div style="display: flex;">
+ <div style="margin-bottom: 10;">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   &nbsp;
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
   &nbsp;
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
   &nbsp;
+ </div>
 </div>
 
 
@@ -55,12 +57,14 @@ _I am located in Lima, Peru. 🌎._
 
 
 <div style="display: flex;">
+ <div style="margin-bottom: 10;">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   &nbsp;
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
   &nbsp;
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   &nbsp;
+ </div>
 </div>
 
 
