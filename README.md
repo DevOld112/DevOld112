@@ -1,25 +1,68 @@
-# :wave: Wilmer Lopez [![Codernicola](https://img.shields.io/github/followers/DevOld112?style=social)]([(https://github.com/DevOld112)])
+# :wave: Hi there, I'm Wilmer Lopez <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> [![Codernicola](https://img.shields.io/github/followers/DevOld112?style=social)]([(https://github.com/DevOld112)])
 
-## :technologist: Sobre mi
-
-_*30 Años*. Aprendiz de programador autodidacta apasionado :books: por la tecnología y el desarrollo web :desktop_computer:. Me encanta aprender cosas nuevas, resolver problemas y trabajar con la mejor actitud para alcanzar mis metas._
-
-Estoy ubicado en _Lima_ , _Peru. :earth_americas:_
-
-## :crossed_swords: Tecnologias & Herramientas que me encuentro en proceso de aprendizaje
+## :technologist: About me
 
 
-![HTML5](https://img.shields.io/badge/-HTML5-f06529?&logo=HTML5&logoColor=white)
 
-![CSS3](https://img.shields.io/badge/-CSS3-2965f1?&logo=CSS3&logoColor=white)
+_30 years old. Self-taught aspiring programmer passionate 📚 about technology and web development 🖥️. I love learning new things, solving problems, working with a positive attitude to achieve my goals and the cats :smirk_cat:._
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+_I am located in Lima, Peru. 🌎._
 
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+ <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+
+
+**Languages and tools:**  
+
+<div style="display: flex;">
+  <div style="margin-bottom: 10px;">
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  &nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
+  &nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+  &nbsp;
+  </div>
+</div>
+
+
+
+<div style="display: flex;">
+  <div style="margin-bottom: 10px;">
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  &nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+  &nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+  &nbsp;
+  </div>
+</div>
+
+
+
+<div style="display: flex;">
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  &nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+  &nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+  &nbsp;
+</div>
+
+
+
+
+
+<div style="display: flex;">
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  &nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  &nbsp;
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  &nbsp;
+</div>
+
 
 
 
@@ -31,23 +74,11 @@ Estoy ubicado en _Lima_ , _Peru. :earth_americas:_
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOld112&theme=dark&hide_border=false&&layout=compact"/>
  </div>
   
-  
 
-      
-## :repeat: TOP comandos que uso con regularidad en GIT 
 
-| comando | Descripcíon                          | 
-|---------|--------------------------------------|
-| ls | lista el contenido de un directorio       |
-| cd | cambiar entre directorios                 |
-| yarn | Instalar dependencias                   |
-| gst | Git status                               |
-| clear | Limpiar terminal                       |
-| alias | listar los alias                       |
-| pwd   | Visualizar en que carpeta me encuentro |
-| code .| Abrir VS Code desde la terminal        |
 
-## :fire: Sigueme en mis redes sociales
+
+## :fire: Where Find Me
 
 ![Twitter](https://img.shields.io/twitter/follow/EdwardEmpatico?color=%230000ff&label=Twitter&logo=twitter)
 
