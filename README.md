@@ -4,9 +4,10 @@
 
 
 
-_30 years old. Self-taught aspiring programmer passionate 📚 about technology and web development 🖥️. I love learning new things, solving problems, working with a positive attitude to achieve my goals and the cats :smirk_cat:._
+_"Con 30 años de edad. Programador autodidacta y aspirante apasionado 📚 a la tecnología y desarrollo web 🖥️. Disfruto aprendiendo nuevas habilidades, resolviendo problemas y trabajando con una actitud positiva para alcanzar mis metas._
 
-_I am located in Lima, Peru. 🌎._
+
+_Ubicado en Lima, Perú. 🌎._
 
  <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
