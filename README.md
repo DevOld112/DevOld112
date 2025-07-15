@@ -4,10 +4,14 @@
 
 
 
-_"Con 30 años de edad. Programador autodidacta y aspirante apasionado 📚 a la tecnología y desarrollo web 🖥️. Disfruto aprendiendo nuevas habilidades, resolviendo problemas y trabajando con una actitud positiva para alcanzar mis metas._
+_Passionate about building seamless digital experiences with a strong eye for detail. Skilled in end-to-end development with expertise in modern web technologies.._
 
 
-_Ubicado en Lima, Perú. 🌎._
+_🛠 Tech Stack:
+• MEVN (MongoDB, Express.js, Vue.js, Node.js)
+• MERN (MongoDB, Express.js, React, Node.js)
+• ☁️ AWS (Cloud Services & Deployment)
+• 🎨 Figma (UI/UX Prototyping & Collaboration) 🌎._
 
  <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
