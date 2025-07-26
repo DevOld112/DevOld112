@@ -37,12 +37,11 @@ Passionate full-stack developer specializing in building performant web applicat
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align ="center">
   <a href="https://github.com/DevOld112">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=DevOld112&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOld112&theme=dark&hide_border=false&layout=compact"/>
-  </a>
-</div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DevOld112&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOld112&theme=dark&hide_border=false&&layout=compact"/>
+ </div>
 
 ## 🌐 Featured Projects
 
