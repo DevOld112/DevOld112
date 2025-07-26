@@ -55,9 +55,9 @@ Passionate full-stack developer specializing in building performant web applicat
 
 ## 📫 Let's Connect
 
-- ✉️ **Email**: [your.email@example.com](mailto:XwilmerX53@gmail.com)
-- 💼 **LinkedIn**: [Your Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/wilmer-lopez-b356a8122/))
-- 🌍 **Portfolio**: [yourwebsite.com]([https://yourwebsite.com](https://wildevold.com/))
+- ✉️ **Email**: [XwilmerX53@gmail.com](mailto:XwilmerX53@gmail.com)
+- 💼 **LinkedIn**: [Wilmer Lopez](https://www.linkedin.com/in/wilmer-lopez-b356a8122/)
+- 🌍 **Portfolio**: [My Website](https://wildevold.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevOld112&label=Profile%20views&color=0e75b6&style=flat" alt="DevOld112" /> 
