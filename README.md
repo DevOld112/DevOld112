@@ -7,10 +7,10 @@
   </a>
 </div>
 
-<div align="center">
+
   [![GitHub Followers](https://img.shields.io/github/followers/DevOld112?label=Follow&style=social)](https://github.com/DevOld112)
   [![Twitter Follow](https://img.shields.io/twitter/follow/EdwardEmpatico?color=1DA1F2&label=Follow&logo=twitter&style=social)](https://twitter.com/EdwardEmpatico)
-</div>
+
 
 ---
 
