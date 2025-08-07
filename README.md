@@ -12,7 +12,6 @@ Passionate full-stack developer specializing in building performant web applicat
 **Core Expertise:**
 - 🛠 **Full-Stack Development**: MEVN/MERN stacks
 - ☁️ **Cloud Solutions**: AWS deployment & serverless architecture
-- 🎨 **UI/UX Design**: Figma prototyping to pixel-perfect implementation
 - 🔧 **DevOps**: CI/CD pipelines and containerization
 
 ## 🛠 Tech Stack
